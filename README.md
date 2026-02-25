@@ -127,7 +127,7 @@ The figure is saved automatically as **`constrained_viz.png`** (150 dpi) in the 
 
 A fully self-contained interactive browser app, in which the user can interact directly with the interface.
 
-### How to run
+### 🚀 How to Use
 
 No installation or build step required. 
 
